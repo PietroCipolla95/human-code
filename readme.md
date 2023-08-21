@@ -1,8 +1,5 @@
 # Comprare qualcosa su Amazon
 
-<!--  Legenda  0 = Non acquistiamo 
-               1 = Acquistiamo       -->
-
 Contesto: 
 Domani è il compleanno di Silvia e dobbiamo ancora comprarle un regalo
 
