@@ -13,7 +13,7 @@ Domani è il compleanno di Silvia e dobbiamo ancora comprarle un regalo
 
 listRegali ['lampada', 'stilografica', 'libro']
 
-- SE il regalo non è (Prime)
+- SE (il regalo non è Prime)
  - non lo acquistiamo  
 - ALTRIMENTI
  - lo inseriamo nei preferiti
@@ -22,7 +22,7 @@ listRegali ['lampada', 'stilografica', 'libro']
 
 listPreferiti ['stilografica', 'libro']
 
-- SE il regalo supera il budget
+- SE (il regalo supera il budget)
  - non lo acquistiamo
 - ALTRIMENTI 
  - lo acquistiamo
